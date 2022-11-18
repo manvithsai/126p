@@ -1,0 +1,9 @@
+.heading{
+box-shadow: 18px 18px 18px olivedrab;
+padding: left;
+margin: 10px;
+}
+canvas{
+border:5px solid aqua;
+border-radius: 20px;
+}
